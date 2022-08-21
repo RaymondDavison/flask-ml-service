@@ -1,2 +1,5 @@
 # flask-ml-service
-A sample repo to showcase the Azure DevOps
+A sample Flask application to showcase the Azure Pipeline.
+
+## Environment
+Python 3.7
